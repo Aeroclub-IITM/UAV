@@ -11,4 +11,4 @@ Here are some guides to work on different UAVs.
 
 [Drones](https://github.com/Aeroclub-IITM/UAV/wiki/Introduction-to-Multirotors)
 
-Fixed Wings
+[Fixed Wings](https://github.com/Aeroclub-IITM/UAV/wiki/Fixed-Wings)
