@@ -9,6 +9,6 @@ Officially, the term 'Unmanned Aerial Vehicle' was changed to 'Unmanned Aircraft
 
 Here are some guides to work on different UAVs.
 
-[Drones](https://github.com/Aeroclub-IITM/UAV/wiki/Introduction-to-Multirotors)
+[Multirotors](https://github.com/Aeroclub-IITM/UAV/wiki/Introduction-to-Multirotors)
 
 [Fixed Wings](https://github.com/Aeroclub-IITM/UAV/wiki/Fixed-Wings)
